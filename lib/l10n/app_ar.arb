@@ -1,0 +1,18 @@
+{
+  "helloWorld": "Hello World!",
+    "home_page": "الصفحة الرئيسية",
+    "login": "login",
+    "sign_up": "sign up",
+    "event": "event",
+    "personal_information": "معلومات شخصية",
+    "name": "اسم",
+    "name_hint": "أدخل أسمك",
+    "email": "البريد الإلكتروني",
+    "email_hint": "أدخل بريدك الالكتروني",
+    "date_of_birth": "تاريخ الولادة",
+    "required_field": "يتطلب حقلا",
+    "submit_info": "إرسال معلومات",
+    "about_us": "معلومات عنا",
+    "settings": "الإعدادات",
+    "change_language": "تغيير اللغة"
+}

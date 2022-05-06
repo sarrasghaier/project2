@@ -1,0 +1,18 @@
+{
+  "helloWorld": "Bonjour",
+  "home_page": "Page d'acceuil",
+  "login": "login",
+  "sign_up": "sign up",
+  "event": "evenement",
+  "personal_information": "Information personnelle",
+  "name": "Nom",
+  "name_hint": "Entrer votre nom",
+  "email": "Email",
+  "email_hint": "Entrer votre email",
+  "date_of_birth": "Date de naissance",
+  "required_field": "",
+  "submit_info": "valider linformation",
+  "about_us": "",
+  "settings": "parametre",
+  "change_language": "Changer la langue"
+}
